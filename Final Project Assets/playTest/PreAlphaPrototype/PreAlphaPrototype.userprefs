@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Unity Projects\final_project\Assets\Scripts\playerStats.boo">
+    <Files>
+      <File FileName="..\..\..\..\Unity Projects\final_project\Assets\Scripts\loadingLevels.boo" Line="14" Column="32" />
+      <File FileName="..\..\..\..\Unity Projects\final_project\Assets\Scripts\level2 scripts\playerStats2.boo" Line="29" Column="33" />
+      <File FileName="..\..\..\..\Unity Projects\final_project\Assets\Scripts\playerStats.boo" Line="30" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
