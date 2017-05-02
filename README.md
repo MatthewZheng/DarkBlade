@@ -1,2 +1,2 @@
 # DarkBlade
-A Unity dungeon crawler written in C#. A collaboration with Lars Kitshchuk and Devin Ramaswami 
+A Unity tile based dungeon crawler written in C# with open source assets and sounds. Developed in junction with L. Kitshuck and D. Ramaswami.
